@@ -1,0 +1,6 @@
+data/
+eda_results/
+.ipynb_checkpoints/
+__pycache__/
+*_run.ipynb
+*_test.ipynb
